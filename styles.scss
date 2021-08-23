@@ -1,0 +1,47 @@
+body {
+  background: #f0f0f0;
+  font-size: 0.85em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.q {
+  margin: 8px;
+  padding: 8px;
+  background: white;
+  width: fit-content;
+}
+
+// Q6
+#papa6 {
+  background: orange;
+  padding: 8px;
+}
+#child6 {
+  background: yellow;
+  padding: 8px;
+}
+
+// Q9
+#c9 {
+  background: lightgreen;
+  padding: 8px;
+}
+#leaf-node9 {
+  background: yellow;
+  padding: 8px;
+}
+
+// Q10
+#base10 {
+  div {
+    padding: 8px;
+    background: #f0faff;
+    border: 1px solid black;
+  }
+  span {
+    padding: 8px;
+    background: #fff000;
+    border: 1px solid black;
+  }
+}
